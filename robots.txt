@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://frieseneggerf.github.io/sitemap.xml
+Sitemap: https://friesenegger.xyz/sitemap.xml
