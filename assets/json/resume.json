@@ -121,13 +121,27 @@
       "name": "Laboratory",
       "level": "",
       "icon": "fa-solid fa-flask-vial",
-      "keywords": ["qRT-PCR", "Immunhistochemistry", "Westernblot", "Fluoresence Microscopy", "Method Development & Validation", "Organic Synthesis", "HPLC-MS Analysis"]
+      "keywords": [
+        "qRT-PCR",
+        "Immunhistochemistry",
+        "Westernblot",
+        "Fluoresence Microscopy",
+        "Method Development & Validation",
+        "Organic Synthesis",
+        "HPLC-MS Analysis"
+      ]
     },
     {
       "name": "Computer",
       "level": "",
       "icon": "fa-solid fa-computer",
-      "keywords": ["Python, R, KNIME", "Graphpad Prism, JupyterLab", "FIJI, Cellpose, Cellprofiler", "Microsoft Office, Latex", "Windows, Linux"]
+      "keywords": [
+        "Python, R, KNIME",
+        "Graphpad Prism, JupyterLab",
+        "FIJI, Cellpose, Cellprofiler",
+        "Microsoft Office, Latex",
+        "Windows, Linux"
+      ]
     }
   ],
   "languages": [

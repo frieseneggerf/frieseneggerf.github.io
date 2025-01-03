@@ -11,9 +11,9 @@ pretty_table: true
 
 {% assign papers_read = 0 %}
 {% for paper in site.data.paper-a-day %}
-  {% if paper.date and paper.date contains "2025" %}
-    {% assign papers_read = papers_read | plus: 1 %}
-  {% endif %}
+{% if paper.date and paper.date contains "2025" %}
+{% assign papers_read = papers_read | plus: 1 %}
+{% endif %}
 {% endfor %}
 
 For 2025 my resolution is to become a better reader and more informed scientist by challenging myself to [read one paper per day](https://medium.com/@samuelwestwood/read-one-paper-each-day-for-one-year-go-on-i-dare-you-989329d14c61) on average. This is where I document my progress.
