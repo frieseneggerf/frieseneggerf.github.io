@@ -74,8 +74,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/urcup-2024/";
-            },},{id: "news-happy-new-year-today-i-am-starting-my-challenge-for-2025-to-read-one-paper-per-day",
-          title: 'Happy new year! 🎆 Today I am starting my challenge for 2025 to...',
+            },},{id: "news-i-released-my-first-android-app-lib-proxy-helper",
+          title: 'I released my first android app Lib Proxy Helper. 📲',
           description: "",
           section: "News",},{id: "projects-bachelor-39-s-thesis-project",
           title: 'Bachelor&amp;#39;s Thesis Project',
@@ -87,11 +87,11 @@ ninja.data = [{
           description: "Instagram bot for automated daily weather reports written in python",
           section: "Projects",handler: () => {
               window.location.href = "/projects/insta-weather-bot/";
-            },},{id: "projects-one-paper-a-day",
-          title: 'One Paper a Day',
-          description: "Documentation of my 2025 resolution to read one scientific publication per day",
+            },},{id: "projects-lib-proxy-helper-android-app",
+          title: 'Lib Proxy Helper Android App',
+          description: "Helps with accessing literature via a library proxy",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/paper-a-day/";
+              window.location.href = "/projects/lib-proxy-helper-app/";
             },},{
         id: 'social-email',
         title: 'email',
