@@ -43,7 +43,7 @@
     {
       "institution": "Ludwig-Maximilians-University",
       "location": "Munich, DE",
-      "url": "https://www.cup.lmu.de/de/studium/studiengaenge/master-pharmaceutical-sciences/",
+      "url": "https://www.cup.lmu.de/en/study/study-programs/master-pharmaceutical-sciences/",
       "area": "A research-driven master's degree that emphazises practical lab experience and advanced methodologies.",
       "studyType": "M.Sc. Pharmaceutical Sciences",
       "startDate": "2024.10",
@@ -108,6 +108,13 @@
     }
   ],
   "certificates": [
+    {
+      "name": "Create - Protect - Innovate: IP and Patents",
+      "date": "2025",
+      "issuer": "European Patent Office",
+      "url": "/assets/pdf/cpi_certificate.pdf",
+      "icon": "fa-solid fa-section"
+    },
     {
       "name": "The DataScientist's Toolbox",
       "date": "2022",

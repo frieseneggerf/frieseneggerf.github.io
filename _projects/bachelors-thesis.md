@@ -4,7 +4,7 @@ title: Bachelor's Thesis Project
 description: Investigations on RPE remodeling during Retinitis Pigmentosa disease progression
 img: assets/img/stained_flatmount.png
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 
