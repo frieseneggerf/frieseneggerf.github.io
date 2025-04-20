@@ -45,28 +45,28 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "post-creating-a-pcr-primer-table-in-latex-from-a-csv-file",
-      
-        title: "Creating a PCR Primer Table in LaTeX from a .csv File",
-      
-      description: "Example implementation from my bachelor&#39;s thesis.",
-      section: "Posts",
-      handler: () => {
         
-          window.location.href = "/blog/2024/create-latex-primer-table-from-csv/";
+          title: "Creating a PCR Primer Table in LaTeX from a .csv File",
         
-      },
-    },{id: "post-how-to-use-cellpose-with-cellprofiler-without-plugin",
-      
-        title: "How to use Cellpose with Cellprofiler (without plugin)",
-      
-      description: "A short tutorial on how cellpose segmentation can be used in cellprofiler pipelines without using the plugin.",
-      section: "Posts",
-      handler: () => {
+        description: "Example implementation from my bachelor&#39;s thesis.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/create-latex-primer-table-from-csv/";
+          
+        },
+      },{id: "post-how-to-use-cellpose-with-cellprofiler-without-plugin",
         
-          window.location.href = "/blog/2024/use_cellpose_with_cellprofiler/";
+          title: "How to use Cellpose with Cellprofiler (without plugin)",
         
-      },
-    },{id: "news-i-was-accepted-into-the-pharmaceutical-sciences-master-s-program-at-lmu-munich-starting-october-2024",
+        description: "A short tutorial on how cellpose segmentation can be used in cellprofiler pipelines without using the plugin.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/use_cellpose_with_cellprofiler/";
+          
+        },
+      },{id: "news-i-was-accepted-into-the-pharmaceutical-sciences-master-s-program-at-lmu-munich-starting-october-2024",
           title: 'I was accepted into the Pharmaceutical Sciences Master’s Program at LMU Munich starting...',
           description: "",
           section: "News",},{id: "news-presentation-of-my-bachelor-39-s-thesis-at-urcup-2024",
