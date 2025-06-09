@@ -35,8 +35,8 @@ I modified [\_includes/resume/languages.liquid](_includes/resume/languages.liqui
 
 ## How to update to the latest template release
 
-1) Make sure you have synced the local version of your website repo to be up-to-date with Github.
-2) Download the latest [al-folio release](https://github.com/alshedivat/al-folio/releases/latest) and unpack it locally.
-3) Install [meld](https://meldmerge.org/), start it and select two folders to compare: the local repo and the template folder.
-4) Merge template changes into your repo, look out to keep your modifications.
-5) Commit your changes and push to origin.
+1. Make sure you have synced the local version of your website repo to be up-to-date with Github.
+2. Download the latest [al-folio release](https://github.com/alshedivat/al-folio/releases/latest) and unpack it locally.
+3. Install [meld](https://meldmerge.org/), start it and select two folders to compare: the local repo and the template folder.
+4. Merge template changes into your repo, look out to keep your modifications.
+5. Commit your changes and push to origin.

@@ -9,9 +9,10 @@
       "endDate": "2024.04",
       "summary": "Thesis on investigations of morphology and phagocytotic activity of the retinal pigment epithelium in a retinitis pigmentosa mouse model",
       "highlights": [
-        "Preparation of mouse RPE flatmounts",
-        "qRT-PCR, Immunohistochemistry, Fluoresence Microscopy, Westernblot",
-        "Development of a cellprofiler pipeline for RPE analysis"
+        "Increased cell segmentation accuracy & speed by integrating cellpose algorithm into pipeline & semi-automating manual checks",
+        "Established a immunohistochemistry protocol for staining of ocular tissues",
+        "Prepared mouse eye flatmounts",
+        "qPCR, Immunohistochemistry, Fluoresence Microscopy, Westernblot"
       ]
     },
     {
@@ -33,9 +34,11 @@
       "endDate": "2019.07",
       "summary": "Completed rigorous hands-on vocational training as a chemical laboratory technician, gaining expertise in analytical techniques, biochemical methods and quality control while contributing to impactful research projects.",
       "highlights": [
-        "LC-MS method development",
-        "Elecsys Radioimmunoassay test development (Oncology and Alzheimer’s) and system integration",
-        "Planning and supervision of internships for pupils"
+        "Cobas MS Assay Development (Munich, DE)",
+        "Elecsys Assay Development Oncolocial & Alzheimers",
+        "Elecsys System Integration System Fluids Support & Testing",
+        "Thorough training in general lab work & organisation",
+        "Supervision and instruction of student interns"
       ]
     }
   ],
@@ -50,10 +53,10 @@
       "endDate": "2026.09",
       "score": "",
       "courses": [
-        "Integrated Pharmacology",
-        "Biopharmaceutics & Quality Assurance",
+        "Drug Design & Molecular Modelling",
         "Development of biogenic Drugs",
-        "Drug Design & Molecular Modelling"
+        "Biopharmaceutics & Quality Assurance",
+        "Integrated Pharmacology"
       ]
     },
     {
@@ -129,20 +132,20 @@
       "level": "",
       "icon": "fa-solid fa-flask-vial",
       "keywords": [
-        "qRT-PCR",
+        "qPCR",
         "Immunhistochemistry",
-        "Westernblot",
         "Fluoresence Microscopy",
-        "Method Development & Validation",
-        "Organic Synthesis",
-        "HPLC-MS Analysis"
+        "Analytical Method Development & Validation",
+        "Westernblot",
+        "LC-MS Analytics",
+        "Organic Synthesis"
       ]
     },
     {
       "name": "Computer",
       "level": "",
       "icon": "fa-solid fa-computer",
-      "keywords": ["Python, R, KNIME", "Graphpad Prism, JupyterLab", "FIJI, Cellpose, Cellprofiler", "Microsoft Office, Latex", "Windows, Linux"]
+      "keywords": ["Python, R, LaTeX", "Graphpad Prism, JupyterLab, KNIME", "FIJI, Cellpose, Cellprofiler", "Microsoft Office, Latex", "Windows, Linux"]
     }
   ],
   "languages": [
@@ -161,7 +164,7 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-magnifying-glass",
-      "keywords": ["Neuroscience", "Ophtalmology", "Epigenetics", "Bioinformatics"]
+      "keywords": ["Gene Therapy", "Therapeutic Antibodies", "Bioinformatics", "Neuroscience"]
     }
   ]
 }
