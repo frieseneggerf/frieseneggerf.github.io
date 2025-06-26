@@ -4,6 +4,9 @@ This is the source for my personal website at [friesenegger.xyz](https://friesen
 
 It uses the amazing al-folio jekyll theme, check [here](https://github.com/alshedivat/al-folio) if you want to use it too. It is hosted for free using github-pages.
 
+## My personal link hub
+My personal link hub page written in raw html & css lies in [me/index.html](me/index.html) to be made available under [friesenegger.xyz/me](https://friesenegger.xyz/me) upon building.
+
 ## My changes to the theme
 
 I modified [\_includes/resume/languages.liquid](_includes/resume/languages.liquid) to be able to use emojis as icons for languages in my resume.
