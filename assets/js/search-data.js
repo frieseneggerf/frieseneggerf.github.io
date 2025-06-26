@@ -77,7 +77,12 @@ ninja.data = [{
             },},{id: "news-i-released-my-first-android-app-lib-proxy-helper",
           title: 'I released my first android app Lib Proxy Helper. 📲',
           description: "",
-          section: "News",},{id: "projects-bachelor-39-s-thesis-project",
+          section: "News",},{id: "news-i-was-awarded-a-deutschlandstipendium-germany-scholarship",
+          title: 'I was awarded a Deutschlandstipendium (Germany Scholarship). 🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/deutschlandstipendium/";
+            },},{id: "projects-bachelor-39-s-thesis-project",
           title: 'Bachelor&amp;#39;s Thesis Project',
           description: "Investigations on RPE remodeling during Retinitis Pigmentosa disease progression",
           section: "Projects",handler: () => {
