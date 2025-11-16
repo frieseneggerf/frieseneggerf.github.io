@@ -1,11 +1,23 @@
 BEGIN:VCARD
-VERSION:3.0
-FN;CHARSET=UTF-8:Florian Friesenegger
-N;CHARSET=UTF-8:Friesenegger;Florian;;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:florian@friesenegger.xyz
-ROLE;CHARSET=UTF-8:Pharmaceutical Sciences Student
-ORG;CHARSET=UTF-8:LMU Munich
-URL;CHARSET=UTF-8:https://friesenegger.xyz
-X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/friesenegger
-REV:2025-06-25T08:11:49.845Z
+VERSION:4.0
+FN:Florian Friesenegger
+NICKNAME:Flo
+N:Friesenegger;Florian;;;B.Sc.
+GENDER:M
+EMAIL;PREF=1:florian@friesenegger.xyz
+EMAIL;PREF=2:f.friesenegger@campus.lmu.de
+URL:https://friesenegger.xyz
+X-SOCIALPROFILE;TYPE=LinkedIn:https://www.linkedin.com/in/friesenegger
+X-SOCIALPROFILE;TYPE=Mastodon:https://mstdn.science/@ffriesenegger
+X-SOCIALPROFILE;TYPE=ORCiD:https://orcid.org/0009-0002-8860-6623
+TZ:Europe/Berlin
+LANG:en
+LANG:de
+ORG:Ludwig-Maximilians-Universität München;Faculty of Chemistry and Pharmacy;Department of Pharmacy
+TITLE:Student
+ROLE:Pharmaceutical Sciences Master's Student
+KIND:individual
+UID:https://orcid.org/0009-0002-8860-6623
+SOURCE:https://friesenegger.xyz/assets/vcard-friesenegger.vcf
+REV:20251116T111350
 END:VCARD
