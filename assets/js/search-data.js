@@ -105,32 +105,11 @@ ninja.data = [{
           window.open("mailto:%66%6C%6F%72%69%61%6E@%66%72%69%65%73%65%6E%65%67%67%65%72.%78%79%7A", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/frieseneggerf", "_blank");
-        },
-      },{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/friesenegger.xyz", "_blank");
-        },
-      },{
         id: 'social-mastodon',
         title: 'Mastodon',
         section: 'Socials',
         handler: () => {
           window.open("https://mstdn.science/@ffriesenegger", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0009-0002-8860-6623", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -140,11 +119,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/friesenegger", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0009-0002-8860-6623", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/frieseneggerf", "_blank");
         },
       },{
       id: 'light-theme',
