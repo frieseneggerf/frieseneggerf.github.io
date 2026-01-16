@@ -42,6 +42,6 @@ User-agent: YouBot
 Disallow: /
 
 User-agent: *
-Disallow: /impressum
+Disallow: /impressum/
 
 Sitemap: https://friesenegger.xyz/sitemap.xml
