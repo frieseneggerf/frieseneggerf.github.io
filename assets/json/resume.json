@@ -1,34 +1,39 @@
 {
   "work": [
     {
-      "name": "AG Koch, LMU Department of Pharmacy",
+      "name": "Klughammer <a href='https://orcid.org/0000-0002-3628-9278'><span style='color: #b2c046;'><i class='ai ai-orcid'></</span></a> Lab, LMU Genecenter",
+      "location": "Munich, DE",
+      "url": "https://www.genzentrum.uni-muenchen.de/research-groups/klughammer/",
+      "position": "Research Intern",
+      "startDate": "2025.10",
+      "endDate": "2026.01",
+      "summary": "T-cell receptor repertoire analysis in type I interferonopathy patients",
+      "highlights": []
+    },
+    {
+      "name": "Koch <a href='https://orcid.org/0000-0001-9966-113X'><span style='color: #b2c046;'><i class='ai ai-orcid'></i></span></a> Lab, LMU Department of Pharmacy",
       "location": "Munich, DE",
       "url": "https://koch.cup.uni-muenchen.de/",
       "position": "Bachelor's Student",
       "startDate": "2024.01",
       "endDate": "2024.04",
       "summary": "Thesis on investigations of morphology and phagocytotic activity of the retinal pigment epithelium in a retinitis pigmentosa mouse model",
-      "highlights": [
-        "Increased cell segmentation accuracy & speed by integrating cellpose algorithm into pipeline & semi-automating manual checks",
-        "Established a immunohistochemistry protocol for staining of ocular tissues",
-        "Prepared mouse eye flatmounts",
-        "qPCR, Immunohistochemistry, Fluoresence Microscopy, Westernblot"
-      ]
+      "highlights": []
     },
     {
-      "name": "AG Thorn-Seshold, LMU Department of Pharmacy",
+      "name": "Thorn-Seshold <a href='https://orcid.org/0000-0003-3981-651X'><span style='color: #b2c046;'><i class='ai ai-orcid'></i></span></a> Lab, LMU Department of Pharmacy",
       "location": "Munich, DE",
-      "url": "https://thornseshold.cup.uni-muenchen.de/",
+      "url": "https://web.archive.org/web/20260104003639/https://thornseshold.cup.uni-muenchen.de/",
       "position": "Research Intern",
       "startDate": "2023.08",
       "endDate": "2023.08",
-      "summary": "3 week research internship in pharmaceutical chemistry",
-      "highlights": ["Synthesis, purification and analysis of organic compounds"]
+      "summary": "Synthesis, purification and analysis of organic compounds",
+      "highlights": []
     },
     {
       "name": "Roche Diagnostics GmbH",
       "location": "Penzberg, DE",
-      "url": "https://careers.roche.com/global/en/welcome-to-apprenticeship-penzberg/",
+      "url": "https://careers.roche.com/global/en/welcome-to-apprenticeship-penzberg",
       "position": "Apprentice Chemical Laboratory Technician",
       "startDate": "2016.09",
       "endDate": "2019.07",
@@ -47,7 +52,7 @@
       "institution": "Ludwig-Maximilians-University",
       "location": "Munich, DE",
       "url": "https://www.cup.lmu.de/en/study/study-programs/master-pharmaceutical-sciences/",
-      "area": "A research-driven master's degree that emphazises practical lab experience and advanced methodologies.",
+      "area": "A research-driven master's degree that emphazises practical lab experience and advanced methods.",
       "studyType": "M.Sc. Pharmaceutical Sciences",
       "startDate": "2024.10",
       "endDate": "2026.09",
@@ -129,7 +134,7 @@
       "name": "The DataScientist's Toolbox",
       "date": "2022",
       "issuer": "Coursera",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/3W4VCVPUKSUF",
+      "url": "/assets/pdf/dst_certificate.pdf",
       "icon": "fa-solid fa-chart-column"
     }
   ],
@@ -152,7 +157,13 @@
       "name": "Computer",
       "level": "",
       "icon": "fa-solid fa-computer",
-      "keywords": ["Python, R, LaTeX", "Graphpad Prism, JupyterLab, KNIME", "FIJI, Cellpose, Cellprofiler", "Microsoft Office, Latex", "Windows, Linux"]
+      "keywords": [
+        "Python, R, LaTeX",
+        "Graphpad Prism, JupyterLab, KNIME",
+        "FIJI, Cellpose, Cellprofiler",
+        "Microsoft Office, Latex",
+        "Windows, Linux"
+      ]
     }
   ],
   "languages": [
@@ -171,7 +182,7 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-magnifying-glass",
-      "keywords": ["Gene Therapy", "Therapeutic Antibodies", "Bioinformatics", "Neuroscience"]
+      "keywords": ["Analytical Chemistry", "Bioinformatics", "Gene Therapy", "Therapeutic Antibodies"]
     }
   ]
 }

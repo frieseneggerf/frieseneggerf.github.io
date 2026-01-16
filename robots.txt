@@ -45,6 +45,6 @@ User-agent: YouBot
 Disallow: /
 
 User-agent: *
-Disallow: /impressum
+Disallow: /impressum/
 
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
