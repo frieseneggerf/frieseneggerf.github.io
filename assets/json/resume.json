@@ -1,6 +1,15 @@
 {
   "work": [
     {
+      "name": "Müller <a href='https://orcid.org/0000-0002-1163-2527'><span style='color: #b2c046;'><i class='ai ai-orcid'></i></span></a> Lab, LMU Department of Pharmacy",
+      "location": "Munich, DE",
+      "url": "https://bracher.cup.uni-muenchen.de/staff/dr-christoph-mueller/",
+      "position": "Master's Student",
+      "startDate": "2026.02",
+      "summary": "GC-MS method development",
+      "highlights": []
+    },
+    {
       "name": "Klughammer <a href='https://orcid.org/0000-0002-3628-9278'><span style='color: #b2c046;'><i class='ai ai-orcid'></</span></a> Lab, LMU Genecenter",
       "location": "Munich, DE",
       "url": "https://www.genzentrum.uni-muenchen.de/research-groups/klughammer/",

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I was awarded a Deutschlandstipendium (Germany Scholarship). 🎉
+title: I was awarded a Deutschland&shy;stipendium (Germany Scholarship). 🎉
 date: 2025-06-25
 inline: false
 related_posts: false
