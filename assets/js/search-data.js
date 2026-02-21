@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "nav-publication-lt-del-gt-s-lt-del-gt",
-          title: "publication&lt;del&gt;s&lt;/del&gt;",
+        },{id: "nav-publications",
+          title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -77,8 +77,8 @@ ninja.data = [{
             },},{id: "news-i-released-my-first-android-app-lib-proxy-helper",
           title: 'I released my first android app Lib Proxy Helper. 📲',
           description: "",
-          section: "News",},{id: "news-i-was-awarded-a-deutschlandstipendium-germany-scholarship",
-          title: 'I was awarded a Deutschlandstipendium (Germany Scholarship). 🎉',
+          section: "News",},{id: "news-i-was-awarded-a-deutschland-amp-shy-stipendium-germany-scholarship",
+          title: 'I was awarded a Deutschland&amp;amp;shy;stipendium (Germany Scholarship). 🎉',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/deutschlandstipendium/";
