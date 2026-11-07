@@ -4,9 +4,19 @@
       "name": "Müller <a href='https://orcid.org/0000-0002-1163-2527'><span style='color: #b2c046;'><i class='ai ai-orcid'></i></span></a> Lab, LMU Department of Pharmacy",
       "location": "Munich, DE",
       "url": "https://bracher.cup.uni-muenchen.de/staff/dr-christoph-mueller/",
+      "position": "Doctoral Student",
+      "startDate": "2026.11",
+      "summary": "Analytical method development & ecotoxicology",
+      "highlights": []
+    },
+    {
+      "name": "Müller <a href='https://orcid.org/0000-0002-1163-2527'><span style='color: #b2c046;'><i class='ai ai-orcid'></i></span></a> Lab, LMU Department of Pharmacy",
+      "location": "Munich, DE",
+      "url": "https://bracher.cup.uni-muenchen.de/staff/dr-christoph-mueller/",
       "position": "Master's Student",
       "startDate": "2026.02",
-      "summary": "GC-MS method development",
+      "endDate": "2026.08",
+      "summary": "Thesis: Analysis of novel methyl-coenzyme M reductase inhibitors using GC-MS",
       "highlights": []
     },
     {
@@ -26,7 +36,7 @@
       "position": "Bachelor's Student",
       "startDate": "2024.01",
       "endDate": "2024.04",
-      "summary": "Thesis on investigations of morphology and phagocytotic activity of the retinal pigment epithelium in a retinitis pigmentosa mouse model",
+      "summary": "Thesis: Changes in retinal pigment epithelium phagocytosis, morphology and metabolism during retinitis pigmentosa disease progression",
       "highlights": []
     },
     {
@@ -64,7 +74,7 @@
       "area": "A research-driven master's degree that emphazises practical lab experience and advanced methods.",
       "studyType": "M.Sc. Pharmaceutical Sciences",
       "startDate": "2024.10",
-      "endDate": "2026.09",
+      "endDate": "2026.08",
       "score": "",
       "courses": [
         "Drug Design & Molecular Modelling",

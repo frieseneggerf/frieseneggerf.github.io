@@ -2,10 +2,10 @@ BEGIN:VCARD
 VERSION:4.0
 FN:Florian Friesenegger
 NICKNAME:Flo
-N:Friesenegger;Florian;;;B.Sc.
+N:Friesenegger;Florian;;;M.Sc.
 GENDER:M
-EMAIL;PREF=1:florian@friesenegger.xyz
-EMAIL;PREF=2:f.friesenegger@campus.lmu.de
+EMAIL;PREF=1:f.friesenegger@lmu.de
+EMAIL;PREF=2:florian@friesenegger.xyz
 URL:https://friesenegger.xyz
 X-SOCIALPROFILE;TYPE=LinkedIn:https://www.linkedin.com/in/friesenegger
 X-SOCIALPROFILE;TYPE=Mastodon:https://mstdn.science/@ffriesenegger
@@ -14,10 +14,10 @@ TZ:Europe/Berlin
 LANG:en
 LANG:de
 ORG:Ludwig-Maximilians-Universität München;Faculty of Chemistry and Pharmacy;Department of Pharmacy
-TITLE:Student
-ROLE:Pharmaceutical Sciences Master's Student
+TITLE:Doctoral Student
+ROLE:Doctoral Student
 KIND:individual
 UID:https://orcid.org/0009-0002-8860-6623
 SOURCE:https://friesenegger.xyz/assets/vcard-friesenegger.vcf
-REV:20251116T111350
+REV:20261107T080000
 END:VCARD

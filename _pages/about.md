@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Pharmaceutical Sciences Student @ LMU Munich
+subtitle: Doctoral Student @ Ludwig-Maximilians-Universität München
 
 #profile:
 #  align: right
@@ -13,7 +13,7 @@ subtitle: Pharmaceutical Sciences Student @ LMU Munich
 #    <p>Campus Grosshadern</p>
 #    <p>Bavaria, Germany</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,9 +22,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am Flo, a master's student at LMU Munich. I am specializing in pharmaceutical sciences and interested in computational methods.
+Hi there! I am Flo, a doctoral student at LMU Munich. I am working on developing analytical methods (especially GC-MS) to quantify environmental pollutants such as pesticides.

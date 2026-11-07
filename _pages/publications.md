@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /works/
+title: works
 description:
 nav: true
 nav_order: 3
